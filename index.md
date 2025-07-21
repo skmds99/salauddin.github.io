@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Ariana's Site
+title: Salauddin's Site
 ---
 
 # Welcome!
 
-I'm Ariana, currently studying in NUS!
+I'm Sk Md Salauddin, currently studying at AMU!
 
-I'm interested few areas, including Math, Music, Cyber Security and Physics and am still active in all those areas. You can find out more about my repertoire and compositions in the Music tab and the books I'm reading in the Books tab
+I'm interested few areas, including Math, Music, Poetry and Coding and am still active in all those areas. You can find out more about my working in the Work tab and the books I'm reading in the Books tab
 
 I'm also looking into some interesting problems in Math, check out the Problems tab to see more on these problems and feel free to contact me for discussions if you're interested!
 
