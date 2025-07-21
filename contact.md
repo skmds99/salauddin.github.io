@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Ariana's Site
+title: Salauddin's Site
 ---
 
 # Contact
 {: style="font-size: 200%; text-align: center;"}
 
- - Email: 1729ariana[at]gmail[dot]com
- - Github: [Ariana1729](https://github.com/Ariana1729)
- - Youtube: [Ariana1729](https://www.youtube.com/channel/UCi7GTZfS6pQp7hhaaNF2-Vw)
- - Twitter: [1729ariana](https://twitter.com/1729ariana)
- - Instagram: [1729ariana](https://www.instagram.com/1729ariana)
- - Discord: ariana#4631
- - Telegram: @Ariana1729
+ - Email: skmds99[at]gmail[dot]com
+ - Github: [skmds99](https://github.com/skmds99)
+ - LinkedIn: [skmds99](https://www.linkedin.com/in/skmds99/)
+ - Instagram: [skmds99](https://www.instagram.com/skmds99)
+ - Facebook:  [1729ariana](https://www.facebook.com/skmds99/)
+ - Telegram: @skmds99
