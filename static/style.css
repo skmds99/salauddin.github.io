@@ -1,20 +1,15 @@
 body {
-    background-color: #121212;
-    color: #e0e0e0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 16px;
-    line-height: 1.6;
+    background-color: #000;
+    color: #ffffe0;
+    font-size: medium;
 }
 
 p, ul, table {
-    margin: 0% 5% 0% 5%;
+    margin: 0% 5% 0% 5%; 
 }
 
 div.highlight {
-    margin: 1% 5% 1% 5%;
-    background-color: #1e1e1e;
-    padding: 1em;
-    border-radius: 8px;
+    margin: 1% 5% 1% 5%; 
 }
 
 .navbar {
@@ -22,12 +17,10 @@ div.highlight {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #1f1f1f;
+    background-color: #0ff;
     position: fixed;
     top: 0;
     width: 100%;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-    z-index: 100;
 }
 
 .navbarleft {
@@ -40,20 +33,18 @@ div.highlight {
 
 .navbara {
     display: block;
-    color: #ffffff;
+    color: #f00;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    transition: background-color 0.3s ease;
 }
 
 .navbara:hover:not(.active) {
-    background-color: #333333;
+    background-color: #222;
 }
 
 .active {
     background-color: #4CAF50;
-    color: white;
 }
 
 #myBtn {
@@ -64,26 +55,23 @@ div.highlight {
     z-index: 99;
     border: none;
     outline: none;
-    background-color: #2e2e2e;
-    color: #ffffff;
+    background-color: #33333375;
+    color: yellow;
     cursor: pointer;
     padding: 15px;
     border-radius: 10px;
     font-size: 18px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
 }
 
 #myBtn:hover {
-    background-color: #444444;
+    background-color: #555;
 }
 
 #footer {
     text-decoration: none !important;
-    border-bottom: 5px solid #4CAF50;
-    color: #a0ffa0;
-    text-align: center;
-    padding: 20px;
-    font-size: 14px;
+    border-bottom: 5px solid #faf;
+    color: #b4b;
+    text-align: center
 }
 
 footer {
@@ -91,21 +79,19 @@ footer {
 }
 
 a:link {
-    color: #80cbc4;
-    text-decoration: none;
+    color: #cfc;
 }
 
 a:visited {
-    color: #b0bec5;
+    color: #ccc;
 }
 
 a:hover {
-    color: #4dd0e1;
-    text-decoration: underline;
+    color: #faf;
 }
 
 a:active {
-    color: #26c6da;
+    color: #ccc;
 }
 
 #writeuptable td {
@@ -115,15 +101,9 @@ a:active {
 
 pre {
     overflow-x: auto;
-    background-color: #1e1e1e;
-    padding: 1em;
-    border-radius: 8px;
-    color: #e0e0e0;
 }
 
 code, code * {
-    font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
-    font-size: 0.95em;
-    color: #ffcc80;
+    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, sans-serif;
+    font-size: small;
 }
-
