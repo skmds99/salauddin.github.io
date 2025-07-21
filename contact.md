@@ -10,5 +10,5 @@ title: Salauddin's Site
  - Github: [skmds99](https://github.com/skmds99)
  - LinkedIn: [skmds99](https://www.linkedin.com/in/skmds99/)
  - Instagram: [skmds99](https://www.instagram.com/skmds99)
- - Facebook:  [1729ariana](https://www.facebook.com/skmds99/)
+ - Facebook:  [skmds99](https://www.facebook.com/skmds99/)
  - Telegram: @skmds99
