@@ -1,20 +1,21 @@
 ---
 layout: default
-title: Salauddin's Site
+title: About Me
 ---
 
 # Welcome!
 
-I'm Sk Md Salauddin, currently studying at AMU!
+My name is **Sk Md Salauddin**, and I’m currently a PhD student at **Aligarh Muslim University (AMU)**.
 
-I'm interested few areas, including Math, Music, Poetry and Coding and am still active in all those areas. You can find out more about my working in the Work tab and the books I'm reading in the Books tab
+My research focuses on **functional identities in rings and algebras**, a subject that I find both rich and fascinating. I’m currently reading **Matej Brešar’s** book on this topic to explore it in greater depth.
 
-I'm also looking into some interesting problems in Math, check out the Problems tab to see more on these problems and feel free to contact me for discussions if you're interested!
+Alongside research, I’m also interested in **Mathematics**, **Music**, **Poetry**, and **Coding**, and I continue to stay active in all of these areas.
 
-I've also participated in some CTFs, check out these writeups in the Writeups tab.
+You can learn more about my academic and professional journey in the **Work** tab, and see what I’ve been reading lately in the **Books** tab.
 
-I've also included some interesting topics that I've learnt in my blogs tab!
+I'm also exploring some open problems in mathematics — head over to the **Problems** tab to check them out, and feel free to get in touch if you’d like to discuss!
 
-# Papers
 
-[Generalising Fault Attacks to Genus Two Isogeny Cryptosystems](https://eprint.iacr.org/2022/196)
+# CV
+
+You can see my CV here [Click Here](https://drive.google.com/file/d/1k9pRgWK_f2yFAieFvWeV4mr49QgemnMe/view?usp=sharing)
