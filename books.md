@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ariana's Site
+title: Salauddin's Site
 ---
 
 # Books
