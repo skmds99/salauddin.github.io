@@ -20,5 +20,5 @@ I'm also exploring some open problems in mathematics — head over to the **Prob
 
 You can also download my CV directly from this site:
 
-[Download My CV (PDF)](/_index/cv.pdf)
+[Download My CV](/_index/CV.pdf)
 
