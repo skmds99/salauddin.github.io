@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Salauddin's Site
+title: My Reading List
 ---
 
 # Books
@@ -11,68 +11,46 @@ These are some the books that I'm currently reading or have read.
 ## Mathematics
 
 ### Algebra
+ – Marc Lipson and Seymour Lipschutz – Schaum's Easy Outline of Linear Algebra 
+ A great choice for beginners, providing clear introductions to each topic along with numerous examples and solved problems that are especially helpful for undergraduate students.
  - Kenneth Hoffman, Ray Kunze - Linear Algebra
 
-Nice introduction to linear algebra that doesn't spend too much time with explicit basis
+ - Joseph Gallian - Contemporary Abstract Algebra
+Great introductory book to algebra.
 
- - Nathan Jacobson - Basic Algebra 1
+ - John B. Fraleigh - A First Course in Abstract Algebra
+Nice overview of several topics with various choices of what to check out.
 
-Great introductory book to algebra
+ -  Dummit and Foote - Abstract Algebra
+  One can learn algebra from just one book — and this is the one to go with.
 
- - Nathan Jacobson - Basic Algebra 2
-
-Nice overview of several topics with various choices of what to check out
-
- - Serge Lang - Algebra
-
-Really I only used it to learn homological algebra lol
-
- - Claudio Procesi - Lie Groups
- - Atiyah, MacDonald - Introduction to Commutative Algebra
- - Matsumura, Reid - Commutative ring theory
- - Hartshorne - Algebraic Geometry
+ - C Musili - Introduction to Rings & Modules: Good book for examples and counter examples in ring and modules.
+ - Szen-Tsen Hu - Introduction to Homological Algebra
+ - Zhe-Xian Wan - Finite Fields and Galois Rings. This one was recommended by my friend Md Abu Fayez. Although I haven’t read it yet, I’ll definitely read it one day, inshaAllah!
+ - Neal H. McCoy - The Theory of Rings
 
 ### Analysis
- - Munkres - Topology (at least till ch 4, ch 5&6 are cool too)
+ - Robert G. Bartle, Donald R. Sherbert - Introduction to Real Analysis
+ - S K Mapa - Introduction to Real Analysis
+A more accessible and student-friendly text, especially popular among Indian undergraduates. It includes clear explanations, numerous examples, and exercises that make it a great companion for self-study.
 
-As long as a rough intuition of calculus is there, this book is suitable to read before real analysis
-
- - Walter Rudin - Principles of Mathematical Analysis (till ch 7)
-
-Other than the second chapter which is overly dense with topological definitions, the others are great
-
- - Walter Rudin - Real and Complex Analysis
-
-Nice exposition to measure theory and complex analysis from a more measure theoretic persepctive. Measure theory part (ch 1-9) is great as an intro and the complex analysis is good after you know the basics.
-
- - Walter Rudin - Functional analysis
- - Klenke - Probability Theory: A Comprehensive Course
- - Miranda - Algebraic curves and Riemann surfaces
+ - Erwin Kreyszig - Introductory Functional Analysis with Applications
+ - S. Ponnusamy - Foundations of Complex Analysis
+ - H L Royden - Real Analysis: Good book for Measure Theory
 
 ### Topology
- - Lee - Introduction to Smooth Manifolds
- - Joseph J. Rotman - An Introduction to Algebraic Topology
- - Bredon - Topology and geometry
- - Tammo tom Dieck - Algebraic Topology
- - Martelli - An Introduction to Geometric Topology
+ - Munkres - Topology (at least till ch 4, ch 9 & 11 for Algebraic Topology)
+ - Mohammed Hichem Mortad - Introductory topology exercises and solutions
+ 
+ - Allen Hatcher - Algebraic Topology
+ - William M. Boothby - An Introduction to Differentiable Manifolds and Riemannian Geometry
 
 ### Number Theory
- - Neukirch - Algebraic Number Theory
+ - David Burton - Elementary Number Theory
+This is hilarious, but I haven’t really studied number theory much.
 
-First two chapters are quite nice, tho some commutative algebra experience would really help with going through the content, third chapter is cute while the class field therory is a rather unique approach that may not be the best, but still rather interesting
- - Silverman - Arithematic of Elliptic Curves
- - Koblitz - Introduction to Elliptic Curves and Modular Forms
- - Diamond, Shurman - A First Course in Modular Forms
 
 ## Physics
 
  - Goldstein - Classical mechanics
 
-Good book once you are comfortable with writing Lagrangians
- - Landau, Lifshitz - The Classical Theory of Fields
-
-I'd highly recommend this book for anyone looking to learn Special Relativity (+ Relativistic Electromagnetism). However the General Relativity section is rather questionable since it just tensor wacking which I don't really like.
- - John David Jackson - Classical electrodynamics
- - Charles W. Misner, John Archibald Wheeler, Kip Thorne - Gravitation
- - R. Shankar - Principles of quantum mechanics
- - Steven Weinberg - Quantum theory of fields. Foundations Volume 1
