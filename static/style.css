@@ -33,7 +33,7 @@ div.highlight {
 
 .navbara {
     display: block;
-    color: #ffffe0;
+    color: #ff0;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -44,7 +44,7 @@ div.highlight {
 }
 
 .active {
-    background-color: #4CAF50;
+    background-color: #def;
 }
 
 #myBtn {
