@@ -1,6 +1,6 @@
 body {
-    background-color: #000;
-    color: #ffffe0;
+    background-color: #fff;
+    color: #000;
     font-size: medium;
 }
 
@@ -17,7 +17,7 @@ div.highlight {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #0ff;
+    background-color: #000;
     position: fixed;
     top: 0;
     width: 100%;
@@ -33,7 +33,7 @@ div.highlight {
 
 .navbara {
     display: block;
-    color: #f00;
+    color: #ffffe0;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
