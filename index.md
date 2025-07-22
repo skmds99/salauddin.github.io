@@ -7,7 +7,7 @@ title: About Me
 
 My name is **Sk Md Salauddin**, and I’m currently a PhD student at **Aligarh Muslim University (AMU)**.
 
-My research focuses on **functional identities in rings and algebras**, a subject that I find both rich and fascinating. I’m currently reading **Matej Brešar’s** book on this topic to explore it in greater depth.
+My research focuses on **Functional Identities in Rings and Algebras**, a subject that I find both rich and fascinating. I’m currently reading **Matej Brešar’s** book on this topic to explore it in greater depth.
 
 Alongside research, I’m also interested in **Mathematics**, **Music**, **Poetry**, and **Coding**, and I continue to stay active in all of these areas.
 
@@ -20,5 +20,5 @@ I'm also exploring some open problems in mathematics — head over to the **Prob
 
 You can also download my CV directly from this site:
 
-[Download My CV](/_index/CV.pdf)
+[Download My CV](_index/cv.pdf)
 
