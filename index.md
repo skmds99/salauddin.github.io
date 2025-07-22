@@ -18,5 +18,7 @@ I'm also exploring some open problems in mathematics — head over to the **Prob
 
 # CV
 
-You can see my CV here pandoc Curriculum Vitae.tex -o cv.md
-[Click Here](https://drive.google.com/file/d/1k9pRgWK_f2yFAieFvWeV4mr49QgemnMe/view?usp=sharing)
+You can also download my CV directly from this site:
+
+[Download My CV (PDF)](/_index/cv.pdf)
+
