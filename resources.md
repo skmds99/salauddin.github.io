@@ -6,7 +6,7 @@ title: Resources
 # Mathematical Resources
 {: style="font-size: 200%; text-align: center;"}
 
-## links I have found helpful
+## Helpful Links
 {: style="text-align: center;"}
 
  - [Quanta Magazine](https://www.quantamagazine.org/mathematics/) has some great articles on developments in mathematics, including [symmetry](https://www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/).
@@ -24,8 +24,9 @@ Here are some great websites and blogs maintained by mathematicians and educator
 - [John Baez’s Website](https://math.ucr.edu/home/baez/) – Mathematical physics, higher category theory, and more.
 - [Tai-Danae Bradley’s Math3ma](https://www.math3ma.com/) – Accessible posts on linear algebra, quantum mechanics, and information theory.
 - [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/) – Excellent notes on abstract algebra, number theory, and analysis.
-- 
+
 ## Youtube Playlist
+{: style="text-align: center;"}
 
 Here are some high-quality YouTube playlists for learning various areas of mathematics:
 
