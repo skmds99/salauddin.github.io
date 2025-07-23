@@ -1,18 +1,42 @@
 ---
 layout: default
-title: Ariana's Site
+title: Salauddin's Site
 ---
-
 # Research
 {: style="font-size: 200%; text-align: center;"}
 
-This is more of what I'm currently looking at, if you have any suggestions for any of them do contact me and we can discuss them!
+This page outlines some of the problems I'm currently working on related to **functional identities in rings and algebras**. If you have suggestions or related references, feel free to reach out—I'm always open to discussion!
 
-## Smart-proof lifts
-The Smart attack solves the discrete log problem of points on an elliptic curve over \\(\mb F_q\\) by lifting to \\(\mb Q_q\\). However some lifts fail. So far I have a script to find every lift that fails and a mostly complete (I hope) proof that it is indeed all lifts. The goal is to find curves in \\(\mb Q_p\\) of the form \\(y^2=x^3+ax+b\\) such that the attack fails and \\(0\leq a,b\<p\\). However the only case I know off is when \\(a=0\\).
+## Characterization of Functional Identities
+I'm studying expressions of the form  
+\\[
+f(x_1, \ldots, x_n) = \sum_i a_i x_{j_1}^{k_1} x_{j_2}^{k_2} \cdots x_{j_m}^{k_m}
+\\]  
+that vanish identically on certain rings or algebras, or satisfy specific constraints (e.g., centrality, symmetry). A major goal is to classify all such identities under mild assumptions on the ring.
 
-## Limits in the Maskit slice
-The maskit slice is a moduli space of punctured torus subgroups groups of \\(\PSL[2]{\mb C}\\). It turns out that when we take a limit inside this Teichmüller space, the algebraic and geometric limits may be different. So far I have some rough computations on what the geometric limit may be but nothing really proven so far.
+### Questions:
+- Under what structural conditions on a ring \\( R \\) do all functional identities reduce to standard polynomial identities?
+- What are the consequences of a functional identity holding on a dense subset of \\( R \\)?
 
-## Unit groups of quotients
-We know that \\(\left(\frac{\mc O_K}{I}\right)^\*\\) can be written in terms of product of cyclic groups as it is finite. Can we find an explicit representation of this product? My current progress can be found in the blogs section.
+## Functional Identities in Prime and Semiprime Rings
+Inspired by work from Brešar and others, I’m exploring how identities behave differently in prime versus semiprime rings. For example, if a functional identity holds in a semiprime ring, can it always be extended to a larger algebra or a ring of quotients?
+
+### Currently:
+- Reading and taking notes on Brešar's work on functional identities.
+- Attempting to generalize certain known results to algebras with involution or to PI rings.
+
+## Connection to Polynomial and Generalized Derivations
+Many functional identities arise from derivations or generalized derivations. I'm investigating how such maps can induce functional identities and whether these identities impose constraints on the structure of the ring.
+
+### Problems of interest:
+- Given a functional identity induced by a derivation, when does the derivation have to be inner?
+- What identities arise naturally in algebras with a nontrivial center?
+
+## Future Goals
+- Extend known results to settings in algebraic geometry, particularly for coordinate rings of varieties.
+- Explore computational approaches to identify or verify functional identities.
+
+---
+
+You can also check out my [blog section](./blog.html) for informal writeups and ongoing notes.
+
