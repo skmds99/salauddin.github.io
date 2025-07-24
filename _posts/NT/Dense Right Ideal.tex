@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage{amsmath,amssymb}
+\begin{document}
+	
+	\section*{Dense Right Ideals and Maximal Right Ring of Quotients}
+	
+	\subsection*{Dense Right Ideals}
+	Let $R$ be a ring and $M$ a right $R$-module. A right ideal $I \subseteq R$ is said to be \textbf{dense} in $R$ (with respect to $M$) if:
+	
+	\begin{quote}
+		For every $m \in M$ and every nonzero $r \in R$, there exists $i \in I$ such that $mi \ne 0$.
+	\end{quote}
+	
+	In particular, if $M = R_R$, the regular right module, then $I$ is dense if for every nonzero $r \in R$, there exists $i \in I$ with $ri \ne 0$.
+	
+	\subsubsection*{Properties}
+	\begin{itemize}
+		\item If $I$ is dense in $R$, then $I$ is essential in $R_R$.
+		\item If $R$ is right nonsingular, the dense right ideals form a directed set.
+		\item The intersection of dense right ideals is again dense.
+		\item Every essential right ideal is dense; the converse may not hold.
+	\end{itemize}
+	
+	\subsubsection*{Example}
+	Let $R = \mathbb{Z}$. Then every nonzero ideal $(n) \subseteq \mathbb{Z}$ is dense. Indeed, for any nonzero $r \in \mathbb{Z}$ and any $n \ne 0$, we have $rn \ne 0$.
+	
+	\subsection*{Maximal Right Ring of Quotients}
+	
+	Let $E(R_R)$ be the injective hull of $R$ as a right $R$-module. Define:
+	\[
+	Q^r_{\text{max}}(R) := \text{End}_R(E(R_R))
+	\]
+	
+	\subsubsection*{Properties}
+	\begin{itemize}
+		\item $R \subseteq Q^r_{\text{max}}(R)$
+		\item $Q^r_{\text{max}}(R)$ is right self-injective
+		\item Every dense right ideal of $R$ is essential in $Q^r_{\text{max}}(R)$
+		\item $Q^r_{\text{max}}(R)$ is the largest right ring of quotients with respect to dense right ideals
+	\end{itemize}
+	
+	\subsection*{References}
+	\begin{enumerate}
+		\item M. Bre\v{s}ar, \textit{Rings, Modules and Linear Algebra}, De Gruyter, 2014.
+		\item T. Y. Lam, \textit{Lectures on Modules and Rings}, Springer GTM 189, 1999.
+		\item N. Jacobson, \textit{Basic Algebra II}, W. H. Freeman, 1989.
+		\item J. Lambek, \textit{Lectures on Rings and Modules}, Blaisdell, 1966.
+	\end{enumerate}
+	
+\end{document}
