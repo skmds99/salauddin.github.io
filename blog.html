@@ -10,10 +10,22 @@ title: Salauddin's Site
         <td>Date</td>
         <td>Name</td>
     </tr>
-    {% for writeup in site.posts %}
+
+    <!-- Jekyll blog posts -->
+    {% for post in site.posts %}
         <tr>
-            <td>{{ writeup.date | date: "%B %e, %Y" }}</td>
-            <td><a href="{{ writeup.url }}">{{ writeup.title }}</a></td>
+            <td>{{ post.date | date: "%B %e, %Y" }}</td>
+            <td><a href="{{ post.url }}">{{ post.title }}</a></td>
         </tr>
     {% endfor %}
+
+    <!-- Manually added PDFs -->
+    <tr>
+        <td>August 1, 2025</td>
+        <td><a href="/assets/pdfs/my-first-writeup.pdf" target="_blank">My First Write-up (PDF)</a></td>
+    </tr>
+    <tr>
+        <td>August 5, 2025</td>
+        <td><a href="/assets/pdfs/my-second-writeup.pdf" target="_blank">My Second Write-up (PDF)</a></td>
+    </tr>
 </table>
