@@ -1,14 +1,27 @@
 ---
 layout: default
-title: Salauddin's Site
+title: Contact — Salauddin
 ---
 
 # Contact
-{: style="font-size: 200%; text-align: center;"}
 
- - Email: skmds99[at]gmail[dot]com
- - Github: [skmds99](https://github.com/skmds99)
- - LinkedIn: [skmds99](https://www.linkedin.com/in/skmds99/)
- - Instagram: [skmds99](https://www.instagram.com/skmds99)
- - Facebook:  [skmds99](https://www.facebook.com/skmds99/)
- - Telegram: @skmds99
+If you'd like to get in touch, feel free to reach out through any of the platforms below:
+
+---
+
+### 📧 Email  
+**skmds99[at]gmail[dot]com**
+
+---
+
+### 🌐 Online Profiles
+
+- **GitHub**: [github.com/skmds99](https://github.com/skmds99)  
+- **LinkedIn**: [linkedin.com/in/skmds99](https://www.linkedin.com/in/skmds99/)  
+- **Instagram**: [instagram.com/skmds99](https://www.instagram.com/skmds99)  
+- **Facebook**: [facebook.com/skmds99](https://www.facebook.com/skmds99/)  
+- **Telegram**: [@skmds99](https://t.me/skmds99)
+
+---
+
+Feel free to connect or drop a message!

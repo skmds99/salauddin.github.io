@@ -1,6 +1,6 @@
 body {
-    background-color: #fff;
-    color: #000;
+    background-color: #1a1a1a;
+    color: #fff;
     font-size: medium;
 }
 
@@ -79,7 +79,7 @@ footer {
 }
 
 a:link {
-    color: #00f;
+    color: #ff0;
 }
 
 a:visited {
