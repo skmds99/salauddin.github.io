@@ -16,7 +16,7 @@ If you'd like to get in touch, feel free to reach out through any of the platfor
 
 ### 🌐 Online Profiles
 
-- **GitHub**: [github.com/skmds99](https://github.com/skmds99)  
+- **GitHub**: [github.com/salauddin1999](https://github.com/salauddin1999)  
 - **LinkedIn**: [linkedin.com/in/skmds99](https://www.linkedin.com/in/skmds99/)  
 - **Instagram**: [instagram.com/skmds99](https://www.instagram.com/skmds99)  
 - **Facebook**: [facebook.com/skmds99](https://www.facebook.com/skmds99/)  
