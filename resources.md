@@ -31,10 +31,11 @@ Here are some great websites and blogs maintained by mathematicians and educator
 
 Here are some high-quality YouTube playlists for learning various areas of mathematics:
 
-- [Linear Algebra – 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) – An intuitive and visual approach to linear algebra.
-- [Abstract Algebra – Harvard (Prof. Benedict Gross)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu7dpiyEUo3rKp) – A full lecture series by a Harvard professor.
-- [Real Analysis – Dr. Peyam](https://www.youtube.com/playlist?list=PLJb1qAQIr3-CHp0IJwAxD8_k-0LNuL5jL) – Detailed and accessible real analysis lectures.
-- [Topology – N J Wildberger](https://www.youtube.com/playlist?list=PL55C7C83781CF4316) – A unique and constructive approach to topology.
-- [Abstract Algebra – MathTheBeautiful](https://www.youtube.com/playlist?list=PL8yHsr3EFj51z0hj3d6X1Zy3xJXSp3B7W) – Rigorous, clear, and deeply structured course on abstract algebra.
-
+- [Linear Algebra – Gilbert Strang](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PLEAYkSg4uSQ1-bul680xs3oaCwI90yZHb) – An intuitive and visual approach to linear algebra.
+- [Introduction To Abstract Group Theory – Prof. Krishna Hanumanthu](https://www.youtube.com/watch?v=pMzcLG6s3z0&list=PLEAYkSg4uSQ1Yhxu2U-BxtRjZElrfVVcO) – This course will introduce abstract groups.
+- [Introduction To Rings And Fields – Prof. Krishna Hanumanthu](https://www.youtube.com/watch?v=yKRbG9Y5pYY&list=PLEAYkSg4uSQ3AaON5oCbS6ecwKsoopBN3) – Here rings are means commutative ring with unity.
+- [Module Theory – Dr. Dipankar Ghosh](https://www.youtube.com/watch?v=HHyBTlUJyF0&list=PLY2U8CcmALO4HqPsKdghs0JMy0HUL7TLs) – It almost covers the introductory part.
+- [Topology – Prof. Biplab Basak](https://www.youtube.com/watch?v=rx6zG39bUrY&list=PLZDR8Pxuv3ClQb9J0EQ4MzLhIUwIz6uPs) – A unique and constructive approach to topology.
+- [Homotopy Theory – Prof. Biplab Basak](https://www.youtube.com/watch?v=xTl4ZOckZvc&list=PLZDR8Pxuv3Cn8MRGpXenNmCXGHq3_wA_p) – Rigorous, clear, and deeply structured course on homotopy theory.
+- [Differentiable Manifolds – Prof. Viqar Azam Khan](https://www.youtube.com/watch?v=FaBYUNU6ubo&list=PLEhu61PV-QMY9S4X1qdXgDW7j6q4RuYIY) – Rigorous, clear, and deeply structured course on differential topology.
 
