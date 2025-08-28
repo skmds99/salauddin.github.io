@@ -1,21 +1,21 @@
 /* === Global Styles === */
 body {
-    background-color: #0d0c1d; /* Deep dark blue-purple */
-    color: #e0e0f0; /* Light grayish-blue text */
+    background-color: #ffffff;  /* Pure white background */
+    color: #222222;             /* Dark gray text (easier than pure black) */
     font-size: medium;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Proper spacing */
+/* Spacing for readability */
 p, ul, table {
     margin: 0% 6% 1% 6%; 
 }
 
 div.highlight {
     margin: 1% 6% 1% 6%; 
-    background-color: #1c1b2a; 
+    background-color: #f5f5f5; /* Light gray highlight box */
     padding: 10px;
     border-radius: 8px;
+    border: 1px solid #ddd;
 }
 
 /* === Navbar Styles === */
@@ -24,11 +24,11 @@ div.highlight {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: linear-gradient(90deg, #2a0845, #6441a5); /* Gradient navbar */
+    background-color: #1976d2; /* Strong blue navbar */
     position: fixed;
     top: 0;
     width: 100%;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
 }
 
 .navbarleft {
@@ -41,7 +41,7 @@ div.highlight {
 
 .navbara {
     display: block;
-    color: #ffee58; /* Neon yellow text */
+    color: #ffffff; /* White text */
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -50,12 +50,12 @@ div.highlight {
 }
 
 .navbara:hover:not(.active) {
-    background-color: #3e2c6d; 
-    color: #ff8a65; /* Coral accent on hover */
+    background-color: #1565c0; /* Darker blue hover */
+    color: #ffeb3b; /* Yellow on hover */
 }
 
 .active {
-    background-color: #9575cd; /* Light purple highlight */
+    background-color: #43a047; /* Highlight active: green */
     color: #fff;
 }
 
@@ -68,8 +68,8 @@ div.highlight {
     z-index: 99;
     border: none;
     outline: none;
-    background-color: #5e35b1c7; /* Semi-transparent purple */
-    color: #ffeb3b; /* Bright yellow text */
+    background-color: #e64a19cc; /* Semi-transparent orange */
+    color: #fff;
     cursor: pointer;
     padding: 15px;
     border-radius: 12px;
@@ -78,59 +78,58 @@ div.highlight {
 }
 
 #myBtn:hover {
-    background-color: #311b92;
-    color: #fff176; /* Softer yellow hover */
+    background-color: #bf360c; /* Darker orange on hover */
 }
 
 /* === Footer === */
 #footer {
     text-decoration: none !important;
-    border-bottom: 5px solid #7c4dff; /* Vibrant purple underline */
-    color: #b39ddb;
+    border-bottom: 4px solid #7b1fa2; /* Purple footer accent */
+    color: #7b1fa2; 
     text-align: center;
 }
 
 footer {
-    padding-bottom: 100px;
+    padding-bottom: 80px;
     font-size: 14px;
-    color: #aaa;
+    color: #444;
 }
 
 /* === Links === */
 a:link {
-    color: #82b1ff; /* Bright light blue */
+    color: #1976d2; /* Clean blue */
 }
 
 a:visited {
-    color: #ff4081; /* Pink for visited links */
+    color: #9c27b0; /* Purple for visited */
 }
 
 a:hover {
-    color: #ffea00; /* Neon yellow hover */
+    color: #e64a19; /* Orange on hover */
 }
 
 a:active {
-    color: #cddc39; /* Lime green */
+    color: #2e7d32; /* Green when active */
 }
 
 /* === Tables === */
 #writeuptable td {
     padding-left: 20px;
     padding-right: 20px;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #ccc;
 }
 
 /* === Code Blocks === */
 pre {
     overflow-x: auto;
-    background-color: #1e1e2e;
+    background-color: #f5f5f5;
     padding: 12px;
     border-radius: 6px;
-    border: 1px solid #333;
+    border: 1px solid #ddd;
 }
 
 code, code * {
-    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, Courier New, monospace;
+    font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
     font-size: small;
-    color: #ffb74d; /* Orange code text */
+    color: #d84315; /* Strong orange for code text */
 }
