@@ -3,17 +3,34 @@ layout: default
 title: About Me
 ---
 
-# Welcome!
+# Welcome! 
 
-My name is **Sk Md Salauddin**, and I’m currently a PhD student at **Aligarh Muslim University (AMU)**.
+Hello there! I'm **Sk Md Salauddin**, and I'm delighted you've stopped by my corner of the mathematical universe.
 
-My research focuses on **Functional Identities in Rings and Algebras**, a subject that I find both rich and fascinating. I’m currently reading **Matej Brešar’s** book on this topic to explore it in greater depth.
+## About Me
+I'm currently pursuing my PhD at **Aligarh Muslim University (AMU)**, where I dive deep into the fascinating world of **Functional Identities in Rings and Algebras**. This field continuously amazes me with its elegance and complexity—currently, I'm immersed in **Matej Brešar's** seminal work on the subject, which has been an incredible source of insight and inspiration.
 
-Alongside research, I’m also interested in **Mathematics**, **Music**, **Poetry**, and **Coding**, and I continue to stay active in all of these areas.
+## Beyond the Equations
+While mathematics forms the core of my academic pursuits, I believe in embracing life's diverse expressions:
+- 🎵 **Music** - Finding harmony beyond mathematical theorems
+- ✍️ **Poetry** - Exploring the beauty of language and emotion  
+- 💻 **Coding** - Bridging abstract mathematical concepts with practical applications
+- 📚 **Continuous Learning** - Always eager to expand my intellectual horizons
 
-You can learn more about my academic and professional journey in the **Work** tab, and see what I’ve been reading lately in the **Books** tab.
+## Explore My World
+I invite you to journey through different aspects of my work and interests:
 
-I'm also exploring some open problems in mathematics — head over to the **Problems** tab to check them out, and feel free to get in touch if you’d like to discuss!
+- **📝 [Notes](./resources.md)** - Mathematical insights, notes, and academic reflections
+- **📖 [Books](./books.md)** - Current readings and mathematical literature that shapes my perspective  
+- **🔬 [Research](./research.md)** - .....
+
+## Let's Connect!
+Mathematics is most rewarding when shared with others. Whether you're a fellow researcher, student, or simply someone curious about the beauty of mathematical structures, I'd love to engage in meaningful discussions about functional identities, algebraic structures, or any of my other interests.
+
+Feel free to reach out—great mathematical conversations often lead to breakthrough insights!
+
+
+*"In mathematics, as in music and poetry, there exists a profound beauty waiting to be discovered."*
 
 
 # CV
