@@ -1,7 +1,7 @@
 /* === Global Styles === */
 body {
     background-color: #ffffff;  /* Pure white background */
-    color: #222222;             /* Dark gray text (easier than pure black) */
+    color: #222222;             /* Dark gray text for readability */
     font-size: medium;
 }
 
@@ -50,12 +50,12 @@ div.highlight {
 }
 
 .navbara:hover:not(.active) {
-    background-color: #1565c0; /* Darker blue hover */
-    color: #ffeb3b; /* Yellow on hover */
+    background-color: #000000; /* Black hover background */
+    color: #ffeb3b; /* Yellow text on hover */
 }
 
 .active {
-    background-color: #43a047; /* Highlight active: green */
+    background-color: #43a047; /* Green for active tab */
     color: #fff;
 }
 
@@ -78,7 +78,7 @@ div.highlight {
 }
 
 #myBtn:hover {
-    background-color: #bf360c; /* Darker orange on hover */
+    background-color: #bf360c; /* Darker orange */
 }
 
 /* === Footer === */
@@ -97,19 +97,19 @@ footer {
 
 /* === Links === */
 a:link {
-    color: #1976d2; /* Clean blue */
+    color: #8a2be2; /* Violet */
 }
 
 a:visited {
-    color: #9c27b0; /* Purple for visited */
+    color: #8a2be2; /* Same violet for visited */
 }
 
 a:hover {
-    color: #e64a19; /* Orange on hover */
+    color: #d500f9; /* Bright magenta hover */
 }
 
 a:active {
-    color: #2e7d32; /* Green when active */
+    color: #7b1fa2; /* Darker purple when active */
 }
 
 /* === Tables === */
